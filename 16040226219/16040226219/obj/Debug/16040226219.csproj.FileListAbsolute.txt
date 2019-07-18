@@ -1,0 +1,10 @@
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\bin\Debug\16040226219.exe.config
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\bin\Debug\16040226219.exe
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\bin\Debug\16040226219.pdb
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\16040226219.csprojResolveAssemblyReference.cache
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\_16040226219.Form1.resources
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\_16040226219.Properties.Resources.resources
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\16040226219.csproj.GenerateResource.Cache
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\16040226219.exe
+c:\users\染小熙的小屋\documents\visual studio 2013\Projects\16040226219\16040226219\obj\Debug\16040226219.pdb
+C:\Users\染小熙的小屋\Documents\Visual Studio 2013\Projects\16040226219\16040226219\obj\Debug\_16040226219.Form2.resources
